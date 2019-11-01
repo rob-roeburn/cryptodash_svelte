@@ -6,7 +6,7 @@ This is a small dashboard view to display the value of cryptocurrencies and reco
 
 # Design
 
-The app is single-page and uses the [Svelte](https://svelte.dev/). framework.  [AWS Lambdas](https://aws.amazon.com/lambda/) are deployed to allow serverless access to DynamoDB storage.  The lambda code is supplied in the main branch to allow deployment.
+The app is single-page and uses the [Svelte](https://svelte.dev/) framework.  [AWS Lambdas](https://aws.amazon.com/lambda/) are deployed to allow serverless access to DynamoDB storage.  The lambda code is supplied in the main branch to allow deployment.
 
 ## Built With
 
